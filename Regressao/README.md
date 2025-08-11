@@ -9,6 +9,7 @@ Modelos de Regressão são usados para estimar valores continuos, isso é, numer
 **TÓPICOS ABORDADOS**
 - [Regresão Linear Simples](linearregression_simple.ipynb)
 - [Regressão Linear Múltipla](linearregression_multiple.ipynb)
+- [Regressão Linear Polinomial](linearregression_poly.ipynb)
 
 ---
 

@@ -29,6 +29,7 @@ scikit-learn
 ├── [Regressao](/Regressao/)   
 │   ├── [linearregression_multiple.ipynb](/Regressao/linearregression_multiple.ipynb)   
 │   ├── [linearregression_simple.ipynb](/Regressao/linearregression_simple.ipynb)   
+│   ├── [linearregression_poly.ipynb](/Regressao/linearregression_poly.ipynb)   
 │   ├── [README.md](/Regressao/README.md)    
 
 ---
@@ -45,6 +46,7 @@ scikit-learn
 8. [Regressão](/Regressao/README.md)
 9. [Regressão Linear Simples](/Regressao/linearregression_simple.ipynb)
 10. [Regressão Linear Multipla](/Regressao/linearregression_multiple.ipynb)
+11. [Regressão Linear Polinomial](/Regressao/linearregression_poly.ipynb)
 
 ---
 
