@@ -33,4 +33,4 @@ O dataset utilizado está disponível na pasta Data desse diretório ([aperte aq
 
 ---
 
-[<- Anterior](../README.md) | [Proximo ->](missing_values.ipynb)
+[<- Anterior](../README.md) | [Próximo ->](missing_values.ipynb)
