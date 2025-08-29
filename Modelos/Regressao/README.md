@@ -37,4 +37,12 @@ Modelos de Regressão podem ser avaliados de acordo com:
 
 ---
 
+# Projetos
+
+- >Previsão da Espectativa de Vida
+  Projeto dedicado a prever a expectativa de vida com diferentes modelos de Regressão (Regressão Linear, Ridge, LASSO, Elasticnet). O projeto utiliza Pipelines para automatizar os processos de Escalonamento e Codificação das Features e treinar os diferentes modelos propostos.   
+  **Acesso do Projeto em:** https://github.com/Lin45510/Life_Expectancy_AI
+
+---
+
 [<- Anterior](../PreProcessamento/pipeline_columntransform.ipynb) | [Próximo ->](linearregression_simple.ipynb)

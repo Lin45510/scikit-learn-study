@@ -19,9 +19,10 @@ O dataset utilizado está disponível na pasta Data desse diretório [(aperte aq
 
 ---
 
-**O que Será Abordado**
-- [train_test_split](train_test_split.ipynb)
-- [cross_validation](cross_validation.ipynb)
+**TÓPICOS ABORDADOS**
+
+- [Dataset de Treino e Dataset de Teste](train_test_split.ipynb)
+- [Validação Cruzada](cross_validation.ipynb)
 
 ---
 [<- Anterior](../PreProcessamento/pipeline_columntransform.ipynb)  |  [Proximo ->](train_test_split.ipynb)

@@ -69,7 +69,7 @@ scikit-learn-study
 17. [Regressão ElasticNet](/Modelos/Regressao/elasticnetregression.ipynb)
 18. [Métricas de Avaliação](/Metricas/README.md)
 19. [Erro Absoluto Médio](/Metricas/mean_absolute_error.ipynb)
-20. [Erro Quadratico Médio](/Metricas/mean_squared_error.ipynb)
+20. [Erro Quadrático Médio](/Metricas/mean_squared_error.ipynb)
 21. [Raiz do Erro Quadrático Médio](/Metricas/root_mean_squared_error.ipynb)
 
 ---
