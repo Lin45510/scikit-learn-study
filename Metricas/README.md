@@ -9,6 +9,10 @@ Além disso, essas métricas podem ser utilizadas para comparar diferentes model
 - [Erro Absoluto Médio (MAE)](mean_absolute_error.ipynb)
 - [Erro Quadrático Médio (MSE)](mean_squared_error.ipynb)
 - [Raiz do Erro Quadrático Médio (RMSE)](root_mean_squared_error.ipynb)
+- [Acurácia](accuracy.ipynb)
+- [Precisão](precision.ipynb)
+- [Revocação](recall.ipynb)
+- [F1-Score](f1_score.ipynb)
  
 ---  
 

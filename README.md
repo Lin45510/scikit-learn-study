@@ -25,6 +25,11 @@ scikit-learn-study
 │   ├── [README.md](/Metricas/README.md)   
 │   ├── [root_mean_squared_error.ipynb](/Metricas/root_mean_squared_error.ipynb)     
 ├── [Modelos](/Modelos/)   
+│   ├── [Classificacao](/Modelos/Classificacao/)   
+│   │   ├── [k_nearest_neighbor.ipynb](/Modelos/Classificacao/k_nearest_neighbor.ipynb)   
+│   │   ├── [logisticregression.ipynb](/Modelos/Classificacao/logisticregression.ipynb)   
+│   │   ├── [README.md](/Modelos/Classificacao/README.md)   
+│   │   ├── [support_vector_classification.ipynb](/Modelos/Classificacao/support_vector_classification.ipynb)   
 │   ├── [Regressao](/Modelos/Regressao/)   
 │   │   ├── [elasticnetregression.ipynb](/Modelos/Regressao/elasticnetregression.ipynb)  
 │   │   ├── [lassoregression.ipynb](/Modelos/Regressao/lassoregression.ipynb)    
@@ -32,7 +37,7 @@ scikit-learn-study
 │   │   ├── [linearregression_simple.ipynb](/Modelos/Regressao/linearregression_simple.ipynb)   
 │   │   ├── [polynomialregression.ipynb](/Modelos/Regressao/polynomialregression.ipynb)   
 │   │   ├── [README.md](/Modelos/Regressao/README.md)    
-│   │   ├── [ridgeregression.ipynb](/Modelos/Regressao/ridgeregression.ipynb) 
+│   │   ├── [ridgeregression.ipynb](/Modelos/Regressao/ridgeregression.ipynb)   
 │   ├── [README.md](/Modelos/README.md)   
 ├── [PreProcessamento](/PreProcessamento/)   
 │   ├── [encoding.ipynb](/PreProcessamento/encoding.ipynb)   
@@ -43,7 +48,7 @@ scikit-learn-study
 ├── [Validacao](/Validacao/)   
 │   ├── [cross_validation.ipynb](/Validacao/cross_validation.ipynb)    
 │   ├── [README.md](/Validacao/README.md)    
-│   ├── [train_test_split.ipynb](/Validacao/train_test_split.ipynb)  
+│   ├── [train_test_split.ipynb](/Validacao/train_test_split.ipynb)   
 ├── [README.md](/README.md)     
 
 ---
@@ -71,6 +76,10 @@ scikit-learn-study
 19. [Erro Absoluto Médio](/Metricas/mean_absolute_error.ipynb)
 20. [Erro Quadrático Médio](/Metricas/mean_squared_error.ipynb)
 21. [Raiz do Erro Quadrático Médio](/Metricas/root_mean_squared_error.ipynb)
+22. [Classificação](/Modelos/Classificacao/)
+23. [Regressão Logistica](/Modelos/Classificacao/logisticregression.ipynb)
+24. [K-Nearest Neighbor](/Modelos/Classificacao/k_nearest_neighbor.ipynb)
+25. [Support Vector Classification](/Modelos/Classificacao/support_vector_classification.ipynb)
 
 ---
 
