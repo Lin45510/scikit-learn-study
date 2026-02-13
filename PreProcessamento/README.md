@@ -1,3 +1,5 @@
+[<- Anterior](../README.md) | [Próximo ->](missing_values.ipynb)
+
 # Pré-Processamento de Dados
 
 O Pré-Processamento de dados é uma parte essencial do desenvolvimento de um modelo de IA e se refere à preparação dos dados para que possam ser usados na etapa de treino do modelo.

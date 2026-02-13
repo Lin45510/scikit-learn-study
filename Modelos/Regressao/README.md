@@ -1,14 +1,16 @@
+[<- Anterior](/Modelos/README.md) | [Próximo ->](linearregression_simple.ipynb)
+
 # Modelos de Regressão
 
-Modelos de Regressão são usados para estimar valores continuos, isso é, numeros reais. Por exemplo:
+Modelos de Regressão são usados para estimar valores contínuos, isso é, números reais. Por exemplo:
 
-- Preço de uma casa
+- Preços
 - Temperatura
-- Lucro de uma empresa
+- Lucro
 
 **TÓPICOS ABORDADOS**
 
-- [Regresão Linear Simples](linearregression_simple.ipynb)
+- [Regressão Linear Simples](linearregression_simple.ipynb)
 - [Regressão Linear Múltipla](linearregression_multiple.ipynb)
 - [Regressão Polinomial](polynomialregression.ipynb)
 - [Regressão Lasso](lassoregression.ipynb)
@@ -19,9 +21,7 @@ Modelos de Regressão são usados para estimar valores continuos, isso é, numer
 
 # Dataset de teste
 
-Para o estudo do desenvolvimento de modelos de IA de Regressão não será utilizado um Dataset especifico. 
-
-Já que cada modelo é aplicado em cenários especificos de relação entre as features e os targets, em cada documento será utilizado um dataset diferente, que representa um caso em que o modelo explicado pode ser explorado. 
+Para demonstrar o desenvolvimento de modelos de regressão não será utilizado um dataset especifico pois cada modelo estudado possui um cenário adequado de aplicação. Assim, durante o desenvolvimento de cada modelo será abordado também as caracteristicas dos datasets ideiais para seua aplicação.
 
 Dessa forma, pretende-se esclarecer não apenas o desenvolvimento de modeos de Regressão, mas também em quais contextos cada tipo especifico de regressão é aplicado.
 
@@ -29,7 +29,7 @@ Dessa forma, pretende-se esclarecer não apenas o desenvolvimento de modeos de R
 
 # Métricas de Avaliação
 
-Modelos de Regressão podem ser avaliados de acordo com:
+O desemprenho de modelos de regressão pode ser medido utilizando:
 
 - [Erro Absoluto Médio - Mean Absolute Error (MAE)](../../Metricas/mean_absolute_error.ipynb)
 - [Erro Quadratico Médio - Mean Squared Error (MSE)](../../Metricas/mean_squared_error.ipynb)
@@ -45,4 +45,4 @@ Modelos de Regressão podem ser avaliados de acordo com:
 
 ---
 
-[<- Anterior](../PreProcessamento/pipeline_columntransform.ipynb) | [Próximo ->](linearregression_simple.ipynb)
+[<- Anterior](/Modelos/README.md) | [Próximo ->](linearregression_simple.ipynb)
