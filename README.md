@@ -22,9 +22,14 @@ scikit-learn-study
 │   ├── [preprocessing_test.csv](/Data/preprocessing_test.csv)   
 │   ├── [multilinearregression.csv](/Data/multilinearregression.csv)   
 ├── [Metricas](/Metricas/)   
+│   ├── [accuracy.ipynb](/Metricas/accuracy.ipynb)   
+│   ├── [classification_report.ipynb](/Metricas/classification_report.ipynb)   
+│   ├── [f1_score.ipynb](/Metricas/f1_score.ipynb)   
 │   ├── [mean_absolute_error.ipynb](/Metricas/mean_absolute_error.ipynb)   
 │   ├── [mean_squared_error.ipynb](/Metricas/mean_squared_error.ipynb)     
+│   ├── [precision.ipynb](/Metricas/precision.ipynb)   
 │   ├── [README.md](/Metricas/README.md)   
+│   ├── [recall.ipynb](/Metricas/recall.ipynb)   
 │   ├── [root_mean_squared_error.ipynb](/Metricas/root_mean_squared_error.ipynb)     
 ├── [Modelos](/Modelos/)   
 │   ├── [Regressao](/Modelos/Regressao/)   
@@ -35,6 +40,12 @@ scikit-learn-study
 │   │   ├── [polynomialregression.ipynb](/Modelos/Regressao/polynomialregression.ipynb)   
 │   │   ├── [README.md](/Modelos/Regressao/README.md)    
 │   │   ├── [ridgeregression.ipynb](/Modelos/Regressao/ridge.ipynb)   
+│   ├── [Classificação](/Modelos/Classificacao/)   
+│   │   ├── [gaussian_nayve_bayes.ipynb](/Modelos/Classificacao/gaussian_nayve_bayes.ipynb)  
+│   │   ├── [k_nearest_neighbor_classifier.ipynb](/Modelos/Classificacao/k_nearest_neighbor_classifier.ipynb)    
+│   │   ├── [logisticregression.ipynb](/Modelos/Classificacao/logisticregression.ipynb)   
+│   │   ├── [README.md](/Modelos//Classificacao/README.md)    
+│   │   ├── [support_vector_classifier.ipynb](/Modelos/Classificacao/support_vector_classifier.ipynb)   
 │   ├── [README.md](/Modelos/README.md)   
 ├── [PreProcessamento](/PreProcessamento/)   
 │   ├── [encoding.ipynb](/PreProcessamento/encoding.ipynb)   
@@ -57,7 +68,7 @@ scikit-learn-study
 4. [Padronização e Normalização](/PreProcessamento/scaling_normalization.ipynb)
 5. [Codificação](/PreProcessamento/encoding.ipynb)
 6. [Modelos](/Modelos/README.md)
-7. [Regressão](/Modelos/Regressao/README.md)
+7. [Modelos de Regressão](/Modelos/Regressao/README.md)
 8. [Regressão Linear Simples](/Modelos/Regressao/linearregression_simple.ipynb)
 9. [Regressão Linear Multivariada](/Modelos/Regressao/linearregression_multiple.ipynb)
 10. [Regressão Linear Polinomial](/Modelos/Regressao/polynomialregression.ipynb)
@@ -71,6 +82,16 @@ scikit-learn-study
 18. [Erro Qudratico Absoluto](/Metricas/mean_absolute_error.ipynb)
 19. [Erro Quadratico Médio](/Metricas/mean_squared_error.ipynb)
 20. [Raiz do Erro Quadratico Médio](/Metricas/root_mean_squared_error.ipynb)
+21. [Modelos de Cassificação](/Modelos/Classificacao/README.md)
+22. [Regressão Logistica](/Modelos/Classificacao/logisticregression.ipynb)
+23. [K-nearest neighbors](/Modelos/Classificacao/k_nearest_neighbor_classifier.ipynb)
+24. [Support Vector Classifier](/Modelos/Classificacao/support_vector_classifier.ipynb)
+25. [Gaussian Nayve Bayes](/Modelos/Classificacao/gaussian_nayve_bayes.ipynb)
+26. [Acurácia](/Metricas/accuracy.ipynb)
+27. [Precisão](/Metricas/precision.ipynb)
+28. [Revocação](/Metricas/recall.ipynb)
+29. [F1-Score](/Metricas/f1_score.ipynb)
+30. [Relatório de Classificação](/Metricas/classification_report.ipynb)
 
 ---
 
@@ -82,6 +103,10 @@ scikit-learn-study
   - Alterei a ordem de recomendação de leitura, o objetivo agora é explicar cada Modelo de Inteligencia artificial e em seguida abordar as métricas que melhor se enquadram para sua avaliação. A ordem também foi corrigida nos botões 'próximo' e 'Anterior' No cabeçalho e no Rodapé dos documentos.
   - Removi referêncais de sessões especificas dentro de um mesmo documento, motivo: Apenas funciona localmente mas apresenta problemas no github.
   - Removi temporariamente os modelos de Classificação para reformular suas explicações.
+
+- **16/02/2026**
+  - Foram reformuladas as explicações referentes aos modelos de Classificação e suas métricas de avaliação
+  - Adição de relátorio de classificação para modelos de classificação
 
 ---
 

@@ -1,6 +1,10 @@
-# Modelos de Regressão
+[<- Anterior](../../Metricas/root_mean_squared_error.ipynb) | [Próximo ->](logisticregression.ipynb)
 
-Modelos de Classificação são usados para estimar uma classe ou categória. Por exemplo:
+---
+
+# Modelos de Classificação
+
+Modelos de classificação são modelos de aprendizado supervisionado utilizados quando o objetivo é prever uma classe ou categoria. Por exemplo:
 
 - Diagnósticos Médicos
 - Reconhecimento de Imagem
@@ -14,17 +18,16 @@ Ainda é possivel agrupar as previsões realizadas pelos modelos de Classificaç
 
 **TÓPICOS ABORDADOS**
 
-- [Regresão Logística](linearregression_simple.ipynb)
+- [Regresão Logística](logisticregression.ipynb)
 - [K-nearest Neighbor](k_nearest_neighbor.ipynb)
 - [Support Vector Classification](support_vector_classification.ipynb)
+- [Gaussian Nayve Bayes](gaussian_nayve_bayes.ipynb)
 
 ---
 
 # Dataset de teste
 
-Para o estudo do desenvolvimento de modelos de IA de Classificação serão utilizados os datasets de treino disponíveis na biblioteca scikit-learn. Dentro de cada documento será fornecida uma demonstração dos dados do dataset utiizado através da biblioteca pandas, assim, espera-se promover uma melhor transparencia dos dados de features e targets do modelo.
-
-Dessa forma, pretende-se esclarecer o uso e desenvolvimento de modelos de Classificação.
+Para o estudo do desenvolvimento de modelos de IA de classificação será utilizado o DataSet load_iris, um dataset nativo da biblioteca scikit-learn que contém dados de espécies de flores e suas caracteristicas. O objetivo desse dataset é prever a espécie de uma flor (target) baseado nas caracteristicas fornecidas pelo DataSet (features).
 
 ---
 
@@ -32,9 +35,11 @@ Dessa forma, pretende-se esclarecer o uso e desenvolvimento de modelos de Classi
 
 Modelos de Classificação podem ser avaliados de acordo com:
 
+- [Acurácia](../../Metricas/accuracy.ipynb)
 - [Precisão](../../Metricas/precision.ipynb)
-- [Relatório de Classificação]()
-- [Matrix de Confusão]()
+- [Revocação](../../Metricas/recall.ipynb)
+- [f1 score](../../Metricas/f1_score.ipynb)
+- [Relatório de Classificação](../../Metricas/classification_report.ipynb)
 
 ---
 
