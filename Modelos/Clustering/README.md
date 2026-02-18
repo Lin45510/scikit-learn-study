@@ -1,19 +1,18 @@
-[<- Anterior](../../Metricas/root_mean_squared_error.ipynb) | [Próximo ->](logisticregression.ipynb)
+[<- Anterior](../../Metricas/precision.ipynb) | [Próximo ->](k_means.ipynb)
 
 ---
 
 # Clustering
 
-Clustering é um algoritmo de aprendizado de maquina não supervisionado que se baseia no agrupamento de dados a partir de suas semelhanças com o objetivo de descobrir grupos naturais dentro do conjunto de dados mesmo em casos que que esses dados não possam ser rotulados. Esses algoritmos possuem varias funcionalidades e podem ajudar em analises exploratórias e redução de dimencionalidade dos dados à partir da identificação de conjuntos de dados que se assemelhem entre si. Esses modelos podem ser usados para:
+Modelos de Clustering são modelos de aprendizado de maquina não supervisionado que se baseiam no agrupamento de dados com o objetivo de descobrir grupos naturais dentro do conjunto de dados mesmo em casos que que esses dados não possam ser rotulados. Esses modelos possuem varias funcionalidades e podem ajudar em analises exploratórias e redução de dimencionalidade à partir da identificação de conjuntos de dados que se assemelhem entre si. Esses modelos podem ser usados para:
 
 - Criar um algoritmo de recomendação de musicas.
 - segmentação de mercado.
 - Detecção de anomalias e discrepancias como fraude bancaria.
 
 **TÓPICOS ABORDADOS**
-- [K-Means]
-- [Afinity Propagation]
-- [Spectral Clustering]
+- [K-Means](k_means.ipynb)
+- [DBSCAN](dbscan.ipynb)
 
 ---
 
@@ -29,7 +28,7 @@ Em uma aplicação real, modelos de clustering trabalham com dados não rotulado
 
 Modelos de clustering podem ser avaliados de acordo com:
 
-- [silhouette_score]
+- [silhouette_score](../../Metricas/silhouette_score.ipynb)
 
 ---
 
@@ -39,4 +38,4 @@ Em desenvolvimento...
 
 ---
 
-[<- Anterior](../../Metricas/root_mean_squared_error.ipynb) | [Próximo ->](logisticregression.ipynb)
+[<- Anterior](../../Metricas/precision.ipynb) | [Próximo ->](k_means.ipynb)

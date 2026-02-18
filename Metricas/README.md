@@ -15,6 +15,7 @@ Métricas de Avaliação são indicadores utilizados para medir a qualidade e a 
 - [Precisão](precision.ipynb)
 - [Revocação](recall.ipynb)
 - [F1-Score](f1_score.ipynb)
+- [Relatório de Classificação](classification_report.ipynb)
  
 ---  
 

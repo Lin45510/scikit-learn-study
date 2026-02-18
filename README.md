@@ -31,7 +31,18 @@ scikit-learn-study
 │   ├── [README.md](/Metricas/README.md)   
 │   ├── [recall.ipynb](/Metricas/recall.ipynb)   
 │   ├── [root_mean_squared_error.ipynb](/Metricas/root_mean_squared_error.ipynb)     
+│   ├── [silhouette_score.ipynb](/Metricas/silhouette_score.ipynb)     
 ├── [Modelos](/Modelos/)   
+│   ├── [Classificação](/Modelos/Classificacao/)   
+│   │   ├── [gaussian_nayve_bayes.ipynb](/Modelos/Classificacao/gaussian_nayve_bayes.ipynb)  
+│   │   ├── [k_nearest_neighbor_classifier.ipynb](/Modelos/Classificacao/k_nearest_neighbor_classifier.ipynb)    
+│   │   ├── [logisticregression.ipynb](/Modelos/Classificacao/logisticregression.ipynb)   
+│   │   ├── [README.md](/Modelos/Classificacao/README.md)    
+│   │   ├── [support_vector_classifier.ipynb](/Modelos/Classificacao/support_vector_classifier.ipynb)   
+│   ├── [Clustering](/Modelos/Clustering/)   
+│   │   ├── [dbscan.ipynb](/Modelos/Clustering/dbscan.ipynb)    
+│   │   ├── [k_means.ipynb](/Modelos/Clustering/k_means.ipynb)   
+│   │   ├── [README.md](/Modelos/Clustering/README.md)    
 │   ├── [Regressao](/Modelos/Regressao/)   
 │   │   ├── [elasticnetregression.ipynb](/Modelos/Regressao/elasticnet.ipynb)  
 │   │   ├── [lassoregression.ipynb](/Modelos/Regressao/lasso.ipynb)    
@@ -40,12 +51,6 @@ scikit-learn-study
 │   │   ├── [polynomialregression.ipynb](/Modelos/Regressao/polynomialregression.ipynb)   
 │   │   ├── [README.md](/Modelos/Regressao/README.md)    
 │   │   ├── [ridgeregression.ipynb](/Modelos/Regressao/ridge.ipynb)   
-│   ├── [Classificação](/Modelos/Classificacao/)   
-│   │   ├── [gaussian_nayve_bayes.ipynb](/Modelos/Classificacao/gaussian_nayve_bayes.ipynb)  
-│   │   ├── [k_nearest_neighbor_classifier.ipynb](/Modelos/Classificacao/k_nearest_neighbor_classifier.ipynb)    
-│   │   ├── [logisticregression.ipynb](/Modelos/Classificacao/logisticregression.ipynb)   
-│   │   ├── [README.md](/Modelos//Classificacao/README.md)    
-│   │   ├── [support_vector_classifier.ipynb](/Modelos/Classificacao/support_vector_classifier.ipynb)   
 │   ├── [README.md](/Modelos/README.md)   
 ├── [PreProcessamento](/PreProcessamento/)   
 │   ├── [encoding.ipynb](/PreProcessamento/encoding.ipynb)   
@@ -92,6 +97,9 @@ scikit-learn-study
 28. [Revocação](/Metricas/recall.ipynb)
 29. [F1-Score](/Metricas/f1_score.ipynb)
 30. [Relatório de Classificação](/Metricas/classification_report.ipynb)
+31. [Clusterização](/Modelos/Clustering/README.md)
+32. [K-means](/Modelos/Clustering/k_means.ipynb)
+33. [DBSCAN](/Modelos/Clustering/dbscan.ipynb)
 
 ---
 
@@ -107,6 +115,9 @@ scikit-learn-study
 - **16/02/2026**
   - Foram reformuladas as explicações referentes aos modelos de Classificação e suas métricas de avaliação
   - Adição de relátorio de classificação para modelos de classificação
+
+- **18/02/2026**
+  - Inclusão dos modelos de Clusterização e métrica de avaliação Silhouette Score
 
 ---
 
